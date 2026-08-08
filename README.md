@@ -1,8 +1,8 @@
-## Conta inativa
+## Inactive account
 
-Usei este perfil entre 2023 e 2026, como AI Engineer e Tech Lead na Conexa Saúde.
-As contribuições do período estão no grafo acima; os repositórios são
-privados da empresa, então só a contagem é pública.
+I used this profile from 2023 to 2026, while working at Conexa Saúde.
+The contributions from that period are in the graph above; the repositories
+are private, so only the counts are public.
 
-Meu trabalho atual e meus projetos abertos estão em
+My current work and open projects are at
 **[@MatheusPush](https://github.com/MatheusPush)**.
